@@ -1,0 +1,3 @@
+﻿# IntegerScaler by Marat Tanalin
+
+[**IntegerScaler**](https://tanalin.com/en/projects/integer-scaler/) is a&nbsp;free utility for pixel-perfect [integer-ratio scaling](https://tanalin.com/en/articles/integer-scaling/) (integer scaling) of&nbsp;games with _no&nbsp;blur_. For&nbsp;example, at&nbsp;the&nbsp;Full HD (1920×1080) resolution on a&nbsp;4K&nbsp;monitor (3840×2160), each logical pixel is displayed as&nbsp;a&nbsp;square group of&nbsp;four (2×2) physical pixels of&nbsp;the&nbsp;same color.
